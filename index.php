@@ -37,7 +37,7 @@
 
     <div class="divMasterClass">
         <div class="mrgB">
-            <h1>FESTA ANOS 80</h1>
+            <h1>BAILE DO HAVAII</h1>
         </div>
 
         <div class="opns" id="comments_2">
@@ -62,7 +62,7 @@
 
     <div class="divMasterClass">
         <div class="mrgB">
-            <h1>FESTA ANOS 80</h1>
+            <h1>FESTA A FANTASIA</h1>
         </div>
 
         <div class="opns" id="comments_3">
