@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.divMasterClass {
+    text-align: center;
+}
+
+textarea {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 200px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+
+input .enviar {
+    width: 20px;
+}
+
+div .opns {
+    position: relative;
+    border: solid 1px #000000;
+    width: 269px;
+    height: 159px;
+    left: 541px;
+    background-color: #cacaca;
+    overflow: hidden;
+}
+
+#comentario1 {
+    text-align: left;
+    padding: 0px;
+    margin: 10px;
+}
+
+#comentario1 h4 {
+    font-size: 9pt;
+    height: 0px;
+}
+
+#comentario1 p {
+    font-size: 9pt;
+}
