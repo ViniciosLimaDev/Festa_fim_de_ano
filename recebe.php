@@ -1,10 +1,13 @@
 <?php 
+
+    require 'config.php';   
+
     header('Content-type: application/json');
 
 
-    $pdo = new PDO('mysql:host=localhost; dbname=bd-opiniao;', 'root', '');
 
-    $stmt = $pdo->prepare('SELECT * FROM comments');
+
+    $stmt = $pdo->prepare('SELECT * FROM opiniao');
     $stmt->execute();
 
 

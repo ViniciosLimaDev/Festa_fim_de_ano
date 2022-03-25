@@ -34,18 +34,15 @@ div .opns {
     height: 159px;
     left: 541px;
     background-color: #cacaca;
-    overflow: hidden;
+    overflow: scroll;
 }
 
-#comentario1 {
+#comentario1,
+#comentario2,
+#comentario3 {
     text-align: left;
     padding: 0px;
     margin: 10px;
-}
-
-#comentario1 h4 {
-    font-size: 9pt;
-    height: 0px;
 }
 
 #comentario1 p {
